@@ -1,4 +1,4 @@
-# Oi, Eu sou o Daniel Santana, Desenvolvedor Front-End!
+# Oi, Eu sou o Daniel Santana, Desenvolvedor Web!
 <div align="center">
   <a href="https://github.com/DanieruStark">
   <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=DanieruStark&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
