@@ -1,7 +1,7 @@
 # Oi, Eu sou o Daniel Santana, Desenvolvedor Web!
 <div align="center">
   <a href="https://github.com/DanieruStark">
-  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieruStark&layout=compact&langs_count=7&theme=dracula&PAT_1"/>
+  <img height="270em" width="630em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieruStark&layout=compact&langs_count=7&theme=dracula&PAT_1"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
